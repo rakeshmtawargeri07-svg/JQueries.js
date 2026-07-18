@@ -1,0 +1,41 @@
+// Document Ready
+$(document).ready(function () {
+
+});
+
+// Selectors
+$("#id")
+$(".class")
+$("p")
+
+// Events
+.click(function(){})
+.hover(function(){})
+.keyup(function(){})
+
+// Effects
+.hide()
+.show()
+.toggle()
+
+// CSS
+.css("color", "red")
+
+// Content
+.text("Hello")
+.html("<b>Hello</b>")
+.val()
+
+// Add Content
+.append("Text")
+
+// Remove
+.remove()
+
+// Class
+.addClass("active")
+.removeClass("active")
+
+// Attributes
+.attr("href")
+.attr("src", "image.jpg")
