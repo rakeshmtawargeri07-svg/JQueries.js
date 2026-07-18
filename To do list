@@ -4,7 +4,7 @@ $(function () {
 
         if (task !== "") {
             $("#list").append("<li>" + task + "</li>");
-            $("#task").val("");
+            $("#task").val("   ");
         }
     });
 
